@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sergio
 - 👀 I’m interested mainly in Python programming and data science. I'm 41 years old.
-- 🌱 I’m currently learning Python programmning for data science, and working on some small projects of my own, not only for practice but to make some valuable use of them.
+- 🌱 I’m currently learning Python programmning & data science by following courses and self-taught, and also working on small projects of my own, not only for practice but to make valuable use of them.
 - 📫 You can reach me at sergiodamianplaza@gmail.com
