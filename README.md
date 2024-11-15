@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergio. I'm 41 years old.
+- 👋 Hi, I’m Sergio. I'm 42 years old.
 - 👀 I’m interested mainly in Python programming, SQL, Data Science and Machine Learning in all of it's variations.
 - 🌱 I have a degree in business administration, and I learn programming by following courses and self-taught.
 - 🧾 The majority of the descriptions, comments, messages, etc. that are found in my repositories are written in Spanish. If you don't speak that language and
